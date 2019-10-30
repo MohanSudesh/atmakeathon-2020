@@ -4,7 +4,7 @@ export class Rules extends Component {
   render() {
     return (
       <div>
-        <section id="rules" className="main">
+        <section id="rules">
           <header className="major special">
             <h2>Rules</h2>
           </header>

@@ -36,7 +36,7 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 0;
+	margin: 0 0 0.7em 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -134,6 +134,9 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+
+
+	
 
 /* Type */
 
@@ -2454,6 +2457,9 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 2em 2em;
 		padding-left: 1em;
+	
+
+
 	}
 
 		ul li {
@@ -2662,6 +2668,7 @@ input, select, textarea {
 
 	header.major {
 		margin-bottom: 3em;
+		margin-top: 0em;
 	}
 
 		header.major h2 {

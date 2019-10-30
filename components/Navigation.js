@@ -7,21 +7,19 @@ export class Navigation extends Component {
         <nav id="nav">
           <ul>
             <li>
-              <a href="#home" className="active">
-                Home
-              </a>
+              <a href="/">Home</a>
             </li>
             <li>
-              <a href="#rules">Rules</a>
+              <a href="/rules">Rules</a>
             </li>
             <li>
-              <a href="#problemstatement">Problem Statements</a>
+              <a href="/ps">Problem Statements</a>
             </li>
             <li>
-              <a href="#gallery">Gallery</a>
+              <a href="/gallery">Gallery</a>
             </li>
             <li>
-              <a href="#getintouch">Get In Touch</a>
+              <a href="/getintouch">Get In Touch</a>
             </li>
           </ul>
         </nav>

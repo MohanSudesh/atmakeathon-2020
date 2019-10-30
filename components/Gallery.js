@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { type } from "os";
 
 export class Gallery extends Component {
   render() {
@@ -39,6 +40,40 @@ export class Gallery extends Component {
             <li>
               <img src={"../static/images/Standing wheelchair Standing.png"} />
               <p>Standing wheelchair Standing</p>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <img
+                src={"../static/images/Easily manoeuvrable tricycle..jpeg"}
+              />
+              <p>Easily manoeuvrable tricycle</p>
+            </li>
+            <li>
+              <br></br>
+              <img
+                src={
+                  "../static/images/GDI Hub’s disability innovation summit.jpeg"
+                }
+              />
+              <p>GDI Hub’s disability innovation summit</p>
+            </li>
+            <li>
+              <img
+                src={
+                  "../static/images/Shaastra’s Accessibility Summit pre-events..jpeg"
+                }
+              />
+              <p>Shaastra’s Accessibility Summit pre-events</p>
+            </li>
+            <li>
+              <br></br>
+              <img
+                src={
+                  "../static/images/Shaastra’s Accessibility Summit pre-events.jpeg"
+                }
+              />
+              <p>Shaastra’s Accessibility Summit pre-events</p>
             </li>
           </ul>
 

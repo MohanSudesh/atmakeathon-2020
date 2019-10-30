@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class ProblemStatement extends Component {
+class ProblemStatement extends Component {
   render() {
     return (
       <div>
@@ -9,11 +9,9 @@ export class ProblemStatement extends Component {
             <h2>Problem Statements</h2>
           </header>
           <h3>
-            <strong>
-              {" "}
-              Participants are requested to pick one of the following problem
-              statements:{" "}
-            </strong>
+            {" "}
+            Participants are requested to pick one of the following problem
+            statements :{" "}
           </h3>
           <br></br>
           <h3>

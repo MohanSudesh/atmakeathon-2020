@@ -9,7 +9,7 @@ import Gallery from "../components/Gallery";
 import GetInTouch from "../components/GetInTouch";
 import Footer from "../components/Footer";
 
-class Index extends Component {
+class RulesPage extends Component {
   render() {
     return (
       <div>
@@ -28,16 +28,19 @@ class Index extends Component {
         <div id="wrapper">
           <Header></Header>
           <Navigation></Navigation>
+          <br></br>
+          <br></br>
+          <br></br>
           <div id="main">
             <br></br>
-            <Home />
+            <Rules />
             <br></br> <br></br>
           </div>
-          <Footer />
         </div>
+
+        <Footer />
       </div>
     );
   }
 }
-
-export default Index;
+export default RulesPage;

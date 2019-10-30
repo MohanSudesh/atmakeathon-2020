@@ -9,7 +9,7 @@ import Gallery from "../components/Gallery";
 import GetInTouch from "../components/GetInTouch";
 import Footer from "../components/Footer";
 
-class Index extends Component {
+class Ps extends Component {
   render() {
     return (
       <div>
@@ -29,8 +29,9 @@ class Index extends Component {
           <Header></Header>
           <Navigation></Navigation>
           <div id="main">
-            <br></br>
-            <Home />
+            <br></br> <br></br>
+            <br></br> <br></br>
+            <ProblemStatement />
             <br></br> <br></br>
           </div>
           <Footer />
@@ -39,5 +40,4 @@ class Index extends Component {
     );
   }
 }
-
-export default Index;
+export default Ps;
