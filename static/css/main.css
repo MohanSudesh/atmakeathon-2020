@@ -3355,11 +3355,11 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#nav {
-				display: none;
+				
 			}
 
 				#nav + #main {
-					padding-top: 0;
+					padding-top: 3000em;
 				}
 
 		}
