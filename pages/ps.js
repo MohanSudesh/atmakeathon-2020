@@ -28,6 +28,7 @@ class Ps extends Component {
         <div id="wrapper">
           <Header></Header>
           <Navigation></Navigation>
+          <br></br> <br></br>
           <div id="main">
             <br></br> <br></br>
             <br></br> <br></br>

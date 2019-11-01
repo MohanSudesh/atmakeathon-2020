@@ -28,6 +28,7 @@ class Index extends Component {
         <div id="wrapper">
           <Header></Header>
           <Navigation></Navigation>
+          <br></br> <br></br>
           <div id="main">
             <br></br>
             <Home />

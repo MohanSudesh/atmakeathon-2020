@@ -28,6 +28,7 @@ class RulesPage extends Component {
         <div id="wrapper">
           <Header></Header>
           <Navigation></Navigation>
+
           <br></br>
           <br></br>
           <br></br>
