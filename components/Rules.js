@@ -15,25 +15,23 @@ export class Rules extends Component {
             <li>
               <p>
                 Teams are advised to submit their technological ideas as
-                abstracts along with product descriptions and dimensions.
-                <strong>
-                  Deadline for the same is November 24th, 2019
-                </strong>.{" "}
+                abstracts along with product descriptions and dimensions.{" "}
+                <strong>Deadline for the same is November 24th, 2019</strong>.{" "}
               </p>
             </li>
             <li>
               <p>
                 During the 1st week of January, the Grand finale of AT Makeathon
-                event will be conducted in one of the halls of IITM. The
-                selected teams will be presenting their ideas along with their
-                prototypes in front of a panel of jury.
+                event will be conducted at IITM. The selected teams will be
+                presenting their ideas along with their prototypes in front of a
+                panel of jury.
               </p>
             </li>
             <li>
               <p>
                 The winners of the AT Makeathon will get cash prizes and mentor
                 support from R2D2 for their product development and to start a
-                venture
+                venture.
               </p>
             </li>
           </ul>
@@ -52,7 +50,7 @@ export class Rules extends Component {
             <li>Costing</li>
             <li>
               Product Specification (Objective Metrics like size, weight, force
-              necessary for operation, etc)
+              necessary for operation, etc.)
             </li>
           </ol>
         </section>

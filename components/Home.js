@@ -26,7 +26,7 @@ export default class Home extends Component {
                       <strong>ROUND 1</strong>
                       <br></br> November 24th, 2019
                     </td>
-                    <td>Submission of description of idea.</td>
+                    <td>Submission of idea description.</td>
                   </tr>
                   <tr>
                     <td>
@@ -47,19 +47,20 @@ export default class Home extends Component {
               </h2>
 
               <p>
-                In conjugation with the Rehabilitation Research and Device
-                Development (R2D2) lab at IIT Madras, we bring forth to you,
-                <strong>Assistive Technology (AT) Makeathon</strong>. <br></br>
+                In collaboration with the TTK Centre for Rehabilitation Research
+                and Device Development (R2D2) at IIT Madras, we bring forth to
+                you, <strong>Assistive Technology (AT) Makeathon.</strong> R2D2
+                is headed by Prof. Sujatha Srinivasan of the Department of
+                Mechanical Engineering. <br></br>
                 <br></br>
                 The main goal of the event is to provide an effective solution
-                by combining the ideas of the students with the resources of the
-                R2D2 lab. We can bridge the gaps between the lives of the
-                physically challenged and those fortunate enough to lead a
-                normal life by implementing successful prototypes designed by
-                students. This will also create a mindset for social
-                entrepreneurship among engineering students by providing them a
-                platform to showcase their ideas and enabling them to set up
-                their start-ups.<br></br>
+                by combining the ideas of students with the resources of R2D2.
+                We can enhance the quality of life of the elderly, and adults
+                and children with disabilities by implementing successful
+                prototypes designed by students. This will also create a mindset
+                for social entrepreneurship among engineering students by
+                providing them a platform to showcase their ideas and enabling
+                them to set up their start-ups.<br></br>
                 <br></br> Furthermore, the
                 <a href="https://www.disabilityinnovation.com/">
                   {" "}
@@ -77,14 +78,13 @@ export default class Home extends Component {
                 <strong> About R2D2:</strong>
               </h2>
               <p>
-                The R2D2 lab is headed by Dr. Sujatha Srinivasan of the
-                Department of Mechanical Engineering. The group aims to improve
-                the life of the physically challenged by developing affordable
-                and easily implementable solutions to movement enabling devices.
-                Their research is related to human movement, the influence of
-                orthotic and prosthetic devices on human movement, and the
-                design and development of mechanisms and assistive devices. Get
-                to know more about the group{" "}
+                The group aims to improve the life of people with physical
+                impairments by developing affordable and easily implementable
+                solutions to movement enabling devices. Their research is
+                related to human movement, the influence of orthotic and
+                prosthetic devices on human movement, and the design and
+                development of mechanisms and assistive devices. Get to know
+                more about the group{" "}
                 <a href="https://home.iitm.ac.in/r2d2/">
                   <strong>here</strong>
                 </a>
